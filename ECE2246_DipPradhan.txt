@@ -1,0 +1,14 @@
+Name of the student : Dip Pradhan 
+Class Roll of the student : 46 
+Stream of the student : ECE 
+Your Student ID is : ECE2246
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 89 
+Marks obtained in English is : 76 
+
+You have got 474 in total with 94%
+Good Performance... You have passed the exam with grade C.

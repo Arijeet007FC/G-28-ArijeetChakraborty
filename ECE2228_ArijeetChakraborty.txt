@@ -1,0 +1,14 @@
+Name of the student : Arijeet Chakraborty 
+Class Roll of the student : 28 
+Stream of the student : ECE 
+Your Student ID is : ECE2228
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 96 
+Marks obtained in Physics is : 92 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 88 
+Marks obtained in English is : 90 
+
+You have got 556 in total with 111%
+Outstanding Performance... You have passed the exam with grade A.
